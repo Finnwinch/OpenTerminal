@@ -1,0 +1,18 @@
+# OpenTerminal
+
+OpenTerminal est une application qui vous permet d'ouvrir votre terminal rapidement, comme sous Linux.
+
+## Fonctionnalité principale
+
+- Crée un raccourci clavier `Ctrl + Alt + T` pour ouvrir le terminal instantanément.
+
+## Installation
+
+0. Avoir wt.exe sur windows (l'application terminal)
+1. Téléchargez OpenTerminal.
+2. Placez le fichier exécutable dans votre dossier d'application de lancement.
+3. Voilà!
+
+## Utilisation
+
+- Appuyez sur `Ctrl + Alt + T` pour ouvrir votre terminal instantanément.
